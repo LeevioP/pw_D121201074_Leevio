@@ -29,8 +29,11 @@ JS
 
 ## PREVIEW
 
+![home_webpage](https://user-images.githubusercontent.com/95002649/208239590-45bcb433-e7ab-4ae8-9878-867b1e8a295a.jpg)
 
+## Contoh Tabel
 
+![tabel](https://user-images.githubusercontent.com/95002649/208239621-286530a2-cd6c-4493-891f-b28e0f1f6087.jpg)
 
 
 
